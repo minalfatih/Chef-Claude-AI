@@ -6,7 +6,7 @@ Instead of searching the internet, just enter your available ingredients, and th
 Originally built as a Scrimba course project, upgraded into a real product with improved UX and features.
 
 ## Live Demo 🚀
-🔗 ![Live Demo](https://chef-claude-ai-project.netlify.app/)
+![Live Demo](https://chef-claude-ai-project.netlify.app/)
 
 ## Screenshots 📸
 
