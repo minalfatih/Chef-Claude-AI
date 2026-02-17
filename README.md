@@ -6,7 +6,7 @@ Instead of searching the internet, just enter your available ingredients, and th
 Originally built as a Scrimba course project, upgraded into a real product with improved UX and features.
 
 ## Live Demo 🚀
-🔗 ![Live Demo]()
+🔗 ![Live Demo](https://chef-claude-ai-project.netlify.app/)
 
 ## Screenshots 📸
 
@@ -48,7 +48,7 @@ Originally built as a Scrimba course project, upgraded into a real product with 
 5- Recipe is displayed in the app
 
 ## Installation 📦
-git clone https://github.com/your-username/chef-claude-ai
+git clone https://github.com/minalfatih/Chef-Claude-AI
 cd chef-claude-ai
 npm install
 npm run dev
